@@ -1,3 +1,6 @@
+data/
+plots/
+
 ### GitHub's default Python .gitignore
 
 # Byte-compiled / optimized / DLL files
